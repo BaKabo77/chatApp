@@ -150,7 +150,7 @@ Les utilisateurs peuvent modifier leur profil incluant:
 
 ### Sécurité
 - Mots de passe hashés avec bcrypt
-- Authentification par sessions avec nuxt-auth-utils
+- Authentification par sessions avec nuxt-auth-utils ( j'ai encore quelques probleme pour mettre en place un systeme de session, donc toutes les contributions qui pourrait m'aider à mieux mettre en place un système efficace de gestion sont les bienvenu !!! )
 - Validation des données côté client et serveur
 
 ## Contribution
