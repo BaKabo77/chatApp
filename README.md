@@ -165,6 +165,6 @@ Les contributions sont les bienvenues! N'hésitez pas à:
 Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 
 ## Contact
-Votre Nom - [@votre_twitter](https://twitter.com/votre_twitter) - email@example.com
+TRAORE Koba - [@BaKabo_exe](https://x.com/Bakabo_exe) - traorekoba7@gmail.com
 
-Lien du projet: [https://github.com/votre-username/chatApp](https://github.com/votre-username/chatApp)
+Lien du projet: [https://github.com/BaKabo77/chatApp](https://github.com/BaKabo77/chatApp)
