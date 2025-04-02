@@ -1,5 +1,9 @@
 # ChatApp - Application de messagerie instantanée
 
+<p align="center">
+  <img src="/capture_chatapp/cap_1.pnj" width="200">
+</p>
+
 ## Description
 ChatApp est une application de messagerie instantanée moderne construite avec Nuxt 3, Vue.js, Firebase Realtime Database et MySQL. Elle permet aux utilisateurs de s'inscrire, se connecter, et échanger des messages en temps réel avec d'autres utilisateurs.
 
