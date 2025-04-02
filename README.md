@@ -1,7 +1,7 @@
 # ChatApp - Application de messagerie instantanée
 
 <p align="center">
-  <img src="/capture_chatapp/cap_1.pnj" width="200">
+  <img src="/capture_chatapp/cap_1.png" width="200">
 </p>
 
 ## Description
