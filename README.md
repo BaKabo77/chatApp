@@ -1,5 +1,6 @@
 # ChatApp - Application de messagerie instantanée
 
+
 ## Description
 ChatApp est une application de messagerie instantanée moderne construite avec Nuxt 3, Vue.js, Firebase Realtime Database et MySQL. Elle permet aux utilisateurs de s'inscrire, se connecter, et échanger des messages en temps réel avec d'autres utilisateurs.
 
@@ -150,7 +151,7 @@ Les utilisateurs peuvent modifier leur profil incluant:
 
 ### Sécurité
 - Mots de passe hashés avec bcrypt
-- Authentification par sessions avec nuxt-auth-utils
+- Authentification par sessions avec nuxt-auth-utils ( j'ai encore quelques probleme pour mettre en place un systeme de session, donc toutes les contributions qui pourrait m'aider à mieux mettre en place un système efficace de gestion sont les bienvenu !!! )
 - Validation des données côté client et serveur
 
 ## Contribution
@@ -165,6 +166,6 @@ Les contributions sont les bienvenues! N'hésitez pas à:
 Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 
 ## Contact
-Votre Nom - [@votre_twitter](https://twitter.com/votre_twitter) - email@example.com
+TRAORE Koba - [@BaKabo_exe](https://x.com/Bakabo_exe) - traorekoba7@gmail.com
 
-Lien du projet: [https://github.com/votre-username/chatApp](https://github.com/votre-username/chatApp)
+Lien du projet: [https://github.com/BaKabo77/chatApp](https://github.com/BaKabo77/chatApp)
